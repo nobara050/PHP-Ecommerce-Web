@@ -1,7 +1,7 @@
 ## Cấu trúc cơ sở dữ liệu
 <img src="demo/database-structure-idibo.png">
-## Hình ảnh trang web
 
+## Hình ảnh trang web
 | | | |
 |---|---|---|
 | ![1](demo/1.png) | ![2](demo/2.png) | ![3](demo/3.png) |
