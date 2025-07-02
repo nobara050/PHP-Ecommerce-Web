@@ -1,6 +1,5 @@
 ## Cấu trúc cơ sở dữ liệu
-database-structure-idibo
-<img src="demo/database-structure-idibo.png" width="300">
+<img src="demo/database-structure-idibo.png">
 ## Hình ảnh trang web
 
 | | | |
